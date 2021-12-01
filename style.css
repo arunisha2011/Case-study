@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: aqua;
+}
+.text_img{
+    background-color: pink;
+    border-radius: 20px;
+    width: 80%;
+    bottom: 100px;
+}
+.result{
+    background-color: violet;
+    text-align: center;
+    width:80%;
+    border-radius: 20%;
+    margin-left: 10%;
+}
